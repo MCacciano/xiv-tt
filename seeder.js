@@ -1,5 +1,4 @@
 import fs from 'fs';
-import fetch from './utils/fetch';
 
 // this will fetch all cards from the api and update the main cards.json file try not
 // to use this too much so we don't abuse api privileges or make breaking changes to our app
